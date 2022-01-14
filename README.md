@@ -1,7 +1,7 @@
 
 - 📚 Sou estudante de desenvolvimento web na Trybe
 - 💚 Apaixonado por tecnologia e inovação
-- 🚵‍♂️ Atleta amador
+- 🚵‍♂️ Atleta amador nas horas vagas
 
 <div>
     <a href='https://github.com/aferanda'>
