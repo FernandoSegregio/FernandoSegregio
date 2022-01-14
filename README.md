@@ -1,3 +1,8 @@
+
+- 📚 Sou estudante de desenvolvimento web na Trybe
+- 💚 Apaixonado por tecnologia e inovação
+- 🚵‍♂️ Atleta amador
+
 <div>
     <a href='https://github.com/aferanda'>
     <img height='140em' src='https://github-readme-stats.vercel.app/api?username=FernandoSegregio&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=38BBAD'/>
