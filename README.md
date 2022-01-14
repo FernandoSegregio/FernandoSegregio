@@ -1,5 +1,6 @@
 
-- 📚 Sou estudante de desenvolvimento web na Trybe
+- 📚 Sou estudante de desenvolvimento de software Full Stack na Trybe
+- 🖥 Dev Front-end
 - 💚 Apaixonado por tecnologia e inovação
 - 🚵‍♂️ Atleta amador nas horas vagas
 
