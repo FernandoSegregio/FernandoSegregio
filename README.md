@@ -1,5 +1,7 @@
 
 - Desenvolvedor Web
+- Front-end 
+- Graduando em IA na FIAP
 - Cafezeiro, apaixonado por tecnologia e inovação
 - Atleta amador nas horas vagas
 
